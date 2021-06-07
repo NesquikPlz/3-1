@@ -14,7 +14,7 @@
 
         
 #JDBC드라이버 없으면 실행안됨      
-#DB id는 admin, pw는 humbug 로 설정돼있으니까 수정필요
+#DB id는 admin, pw는 humbug 로 설정돼있으니까 수정필요                                            
 #포트번호 3305아니면 3306임       
 
 
