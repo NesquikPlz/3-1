@@ -1,0 +1,4 @@
+﻿  8-4.cpp
+C:\Users\user\Desktop\이런저런\과제이러쿵\21-1\컴알\practice\week8\8-4.cpp(79,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\이런저런\과제이러쿵\21-1\컴알\practice\week8\8-4.cpp(81,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week8.vcxproj -> C:\Users\user\Desktop\이런저런\과제이러쿵\21-1\컴알\practice\week8\Debug\week8.exe
