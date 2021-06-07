@@ -1,0 +1,4 @@
+﻿  hw_4.cpp
+C:\Users\user\Desktop\이런저런\과제이러쿵\21-1\컴알\practice\week3\hw_4.cpp(51,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\user\Desktop\이런저런\과제이러쿵\21-1\컴알\practice\week3\hw_4.cpp(57,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  week3.vcxproj -> C:\Users\user\Desktop\이런저런\과제이러쿵\21-1\컴알\practice\week3\Debug\week3.exe
