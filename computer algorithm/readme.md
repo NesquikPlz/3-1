@@ -1,3 +1,3 @@
-21-1 computer algorithm
-weekly practices
+21-1 computer algorithm       
+weekly practices        
 C with Visual Studio
