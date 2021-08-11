@@ -1,6 +1,6 @@
 
 #### CIFAR-10 image classification<br/>
-#### ResNet + Inception Module int googLeNet<br/>
+#### ResNet + googLeNet's Inception Module<br/>
 <br/><br/>
 모델의 구조는 다음과 같다<br/> 총 45개의 layer임<br/>
 ![image](https://user-images.githubusercontent.com/77532413/121508790-f4d07b00-ca20-11eb-857c-f63d21805a78.png)
